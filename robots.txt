@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://YOUR-GITHUB-USERNAME.github.io/pdf-study-assistant/sitemap.xml
