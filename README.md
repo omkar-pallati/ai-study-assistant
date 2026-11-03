@@ -1,4 +1,4 @@
-# PDF Study Assistant
+# PDF Study Assistant.
 
 Website (GitHub Pages) + AI backend (Google Colab).
 
